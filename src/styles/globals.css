@@ -40,3 +40,7 @@ a {
     color-scheme: dark;
   }
 }
+
+.weather-item-list {
+  margin-bottom: 16px;
+}
